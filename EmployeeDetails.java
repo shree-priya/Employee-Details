@@ -11,15 +11,15 @@ Employee(String nam,int years, String addr)
      }
 void Sam()
 {
- System.out.println(Name+ "        " +Year + "         "     +Address);                                          
+ System.out.println(Name+ "    " +Year + "     " +Address);                                          
 }
 void Robert()
 {
-     System.out.println(Name+ "     " +Year + "            "     +Address);                                          
+     System.out.println(Name+ "    " +Year + "    "+Address);                                          
 }
 void John()
 {
- System.out.println(Name+ "    "+Year + "       "     +Address);                                          
+ System.out.println(Name+ "    "+Year + "    "+Address);                                          
 }
 }
 class EmployeeDetails
